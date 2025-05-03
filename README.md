@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Set%20the%20Tone&height=300&color=gradient)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineeeAn)](https://github.com/anuraghazra/github-readme-stats)
