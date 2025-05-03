@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Set%20the%20Tone&height=300&color=gradient)
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jineeeAn&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jineeeAn&show_icons=true&theme=radical)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineeeAn)](https://github.com/anuraghazra/github-readme-stats)
