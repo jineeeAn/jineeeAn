@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - **Game Engine**: Unity, Unreal5
 <!-- - **SLAM**: RTAB-Map, ORB-SLAM3, PLVS
 - **ML 연동**: YOLOv5/8, ONNX, Unity Barracuda -->
-- **Version Control**: Git, GitHub
+- **Version Control**: Git, GitHub, PlasticSCM
 
 <!-- ## 🌐 협업과 비전
 사용자와 환경 모두를 고려한 개발을 지향합니다.  
